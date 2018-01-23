@@ -4,9 +4,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+## Youtube link
+
+This app is based on the below youtube video.
+`https://www.youtube.com/watch?v=wQ5z9SFBlek&list=LLy_5DqLhUmTXJn7-vcM4RWg&index=1`
+
+## Installation
+
+Run `npm install`.
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
