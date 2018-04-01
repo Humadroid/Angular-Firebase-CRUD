@@ -1,14 +1,13 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Build Status](https://travis-ci.org/Humadroid/Angular-Firebase-CRUD.svg?branch=master)](https://travis-ci.org/Humadroid/Angular-Firebase-CRUD)
 
+# That's how this project looks like
+
+[![Angular ChatBot](src/assets/Angular-Firebase-CRUD.png "Angular Firebase CRUD operations working Demo")](https://angular-firebase-crud-demo.firebaseapp.com/)
+
 # Angular Firebase CRUD app using Real-time firebase Database
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
-
-## Youtube link
-
-This app is based on the below youtube video.
-`https://www.youtube.com/watch?v=wQ5z9SFBlek&list=LLy_5DqLhUmTXJn7-vcM4RWg&index=1`
 
 ## Installation
 
